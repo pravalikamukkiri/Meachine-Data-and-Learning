@@ -8,4 +8,5 @@
 
 * Calculated of Bias and variance for given sets
 * Calculated Mse and Irreducible error
+* Plotted bias square ,varience and mean square error
  
